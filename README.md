@@ -1,2 +1,2 @@
 # Phanix
-Revealing Soon
+<h1>**Revealing Soon**</h>

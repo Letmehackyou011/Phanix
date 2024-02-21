@@ -1,7 +1,7 @@
 # Phanix
-<h1>The advance all in one pentesting tool</h>
+***The advance all in one pentesting tool***
 
-## Features 🔥 ##
+# Features 🔥 #
 
 (1) ***This tool have 100+ penetrating with helpful inbuilt encryption and decryption methods***
 
@@ -9,7 +9,7 @@
 
 (3) ***Tools related to hacking including the Phishing tools, Spoofing, Web vulnerability tools, Forensic tools, Anonymous browsing tools, Password cracking tools, TOR networking tools, Reverse call lookup, Ransomeware generator, Malicious payload generator and more***
 
-(4) ***Writting in Python***
+(4) ***Written in Python***
 
 (5) ***Phanix is for Windows, MacOS ,Linux users***
 
@@ -17,7 +17,7 @@
 
 (7) ***Easy to use even beginners can use it easily***
 
-# If you like my work give coffee#
-<a href="https://www.buymeacoffee.com/Solo_developer__">
+[Buy me coffee ☕ ](https://www.buymeacoffee.com/Solo_developer__)
 
-## If you have any problem please make a pull request I will resolve that problem ##
+# Contact #
+***If you have any problem please make a pull request I will resolve that problem***

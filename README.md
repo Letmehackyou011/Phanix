@@ -5,17 +5,15 @@
 
 (1) ***This tool have 100+ penetrating with helpful inbuilt encryption and decryption methods***
 
-(2) ***Open source any can fork and modify for your personal use but give credits atleat (but some not)***
+(2) ***Tools related to hacking including the Phishing tools, Spoofing, Web vulnerability tools, Forensic tools, Anonymous browsing tools, Password cracking tools, TOR networking tools, Reverse call lookup, Ransomeware generator, Malicious payload generator and more***
 
-(3) ***Tools related to hacking including the Phishing tools, Spoofing, Web vulnerability tools, Forensic tools, Anonymous browsing tools, Password cracking tools, TOR networking tools, Reverse call lookup, Ransomeware generator, Malicious payload generator and more***
+(3) ***Written in Python***
 
-(4) ***Written in Python***
+(4) ***Phanix is for Windows, MacOS ,Linux users***
 
-(5) ***Phanix is for Windows, MacOS ,Linux users***
+(5) ***CLI (Command Line Interface) based***
 
-(6) ***CLI (Command Line Interface) based***
-
-(7) ***Easy to use even beginners can use it easily***
+(6) ***Easy to use even beginners can use it easily***
 
 [Buy me coffee ☕ ](https://www.buymeacoffee.com/Solo_developer__)
 
